@@ -93,7 +93,7 @@ header {
 }
 
 .header__a{
-  font-size: calc(100vw - 99.114584vw);
+  font-size: max(1rem, 0.9vw);
   color: var(--text-white);
 }
 
@@ -138,7 +138,7 @@ header {
 }
 
 .home__h1{
-  font-size: calc(100vw - 91.8229vw);
+  font-size: max(1.7rem, 8.2vw);
 }
 
 
